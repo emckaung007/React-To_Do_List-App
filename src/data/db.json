@@ -1,0 +1,24 @@
+{
+  "todolist": [
+    {
+      "id": "ece6537e-c474-16e7-e746-4adc2b6a3e75",
+      "task": "to learn japanese language",
+      "complete": false
+    },
+    {
+      "id": "c3fd04a3-c2a1-461f-8a3f-5c58c7cdd611",
+      "task": "to exercise workout",
+      "complete": false
+    },
+    {
+      "id": "a36b31d5-657c-2a00-6478-94593630781c",
+      "task": "have learn reactjs",
+      "complete": false
+    },
+    {
+      "id": "48e0a753-7589-9347-6e11-770f3528f798",
+      "task": "reading time (30min)",
+      "complete": false
+    }
+  ]
+}
